@@ -1,2 +1,2 @@
-# Yours
+# yours.github.io
 Glowing Plant
